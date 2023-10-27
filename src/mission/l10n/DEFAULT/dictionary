@@ -8,6 +8,24 @@ dictionary = {
     ["DictKey_descriptionBlueTask_3"] = "",
     ["DictKey_descriptionNeutralsTask_4"] = "",
     ["DictKey_descriptionRedTask_2"] = "",
-    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_descriptionText_1"] = "METAR : ${METAR}\
+=======\
+\
+Le PvP n'est autorisé que dans le cadre de la zone Airquake et de la zone Red vs Blue PVP\
+------\
+PvP is only authorized in the Airquake zone and in the Red vs Blue PvP area\
+\
+=======\
+\
+Documentation de la mission http://veaf.org/opentraining\
+\
+=================================\
+\
+Nous contacter:\
+- Site : https://www.veaf.org/\
+- Discord: http://veaf.org/discord\
+- TeamSpeak: ts.veaf.org\
+\
+",
     ["DictKey_sortie_5"] = "",
 } -- end of dictionary

@@ -1,5 +1,5 @@
 @echo off
-set MISSION_NAME=VEAF-Open-Training-WW2-TheChannel
+set MISSION_NAME=VEAF-Open-Training-Mission-WW2-TheChannel
 echo.
 echo ----------------------------------------
 echo extracting %MISSION_NAME%
